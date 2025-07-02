@@ -58,7 +58,7 @@ A modern, responsive AI chatbot powered by **DeepSeek R1** with direct **Groq AP
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone (https://github.com/hammoudaoussama/ai-chatbot)
    cd chatbotAI
    ```
 
